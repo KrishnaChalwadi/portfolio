@@ -1,4 +1,4 @@
-# portfolio
+#portfolio
 # Technical Writer
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
